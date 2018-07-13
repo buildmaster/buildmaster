@@ -35,3 +35,8 @@ I enjoy individuals working well together and as such I think the best teams dem
 # What people missunderstand about me
 * **I'm not a natural extrovert** - I tend to be loud and outgoing and can hold a conversation but I have to push myself to get into those moments. I find myself deeply uncomfortable about strangers and can seem reserved, please don't let that put you off, come and say hi.
 * **I rarely _know_ the answer** -  I love to investigate problems though so please bring me your problems, we can investigate them together
+
+# Some other things you might like to know
+I've done a few personality type tests in my time, and each one gives some good insight into things that make me tick and gives you some more depth to understanding me.
+[Birkman Report](https://github.com/buildmaster/buildmaster/blob/master/EVANS_OWEN_G5943S.pdf)
+[Enneagram](https://github.com/buildmaster/buildmaster/blob/master/EVANS-OWEN-RHETIResults.pdf)
