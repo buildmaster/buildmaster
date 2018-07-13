@@ -38,5 +38,6 @@ I enjoy individuals working well together and as such I think the best teams dem
 
 # Some other things you might like to know
 I've done a few personality type tests in my time, and each one gives some good insight into things that make me tick and gives you some more depth to understanding me.
-[Birkman Report](https://github.com/buildmaster/buildmaster/blob/master/EVANS_OWEN_G5943S.pdf)
-[Enneagram](https://github.com/buildmaster/buildmaster/blob/master/EVANS-OWEN-RHETIResults.pdf)
+
+* [Birkman Report](https://github.com/buildmaster/buildmaster/blob/master/EVANS_OWEN_G5943S.pdf)
+* [Enneagram](https://github.com/buildmaster/buildmaster/blob/master/EVANS-OWEN-RHETIResults.pdf)
