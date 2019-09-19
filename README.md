@@ -2,8 +2,8 @@
 If you're reading this it's likely that we're on the same team, you may be a new member or we may have already worked together, I thought it would be a good idea to codify my management style and values so you know what to expect from me and what I'd expect from you.
 
 # My Style
-* **Default to Transparency** - You should always know the _why_. You should have a clear sense of the motivations behind decisions and know why we're doing 
-* **Good intentions** - I will always have the best intentions at heart, and expect others to as well. I belive the 
+* **Default to Transparency** - You should always know the _why_. You should have a clear sense of the motivations behind decisions and know why we're doing what were doing
+* **Good intentions** - I will always have the best intentions at heart, and expect others to as well. I belive that people are trying to do the best by others but sometimes dont think through full consequences
 * **Freedom and safety** - I will provide you with the freedom to do your job, I don't believe in micromanagement and I don't believe I know how to do your job better than you. I'll also provide you with safety to make mistakes. _"Too err is human"_
 * **Accountability** - I belive being accountable means being able to give an account of how decisions were made, to own the decisions and understand them.
 
@@ -18,7 +18,7 @@ I enjoy individuals working well together and as such I think the best teams dem
 
 # What to expect from me
 * **Coaching** - I can't guarentee I know the answer but you can always come to me to help you find the right questions to ask. I'm a big believer in coaching and will help you get your best.
-* **Open Feedback** - You should always be able to ask for feedback, for an inside 
+* **Open Feedback** - You should always be able to ask for feedback, and should always have a space to let me know your feedback
 * **Regular catch ups** - You should be able to catch up with me regularly, I'll never cancel our meetings (we may have to reschedule occasionally) our catch ups are your meetings you have control of those agendas.
 * **Open door** - you can always interrupt me and find me, I'll always make time for you.
 * **I will help you grow** - I will aim that you achieve your personal goals, that you can grow into whatever direction you want to
